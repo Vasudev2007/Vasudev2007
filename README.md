@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=700&lines=Hi+there!;I'm+Vaibhav+Vasudev;Electrical+Engineering+@+IIT+Kanpur;Machine+Learning+%7C+Computer+Vision">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=700&lines=Hi+there!;I'm+Vaibhav+Vasudev;Electrical+Engineering+@+IIT+Kanpur">
 </p>
 <!--
 **Vasudev2007/Vasudev2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
